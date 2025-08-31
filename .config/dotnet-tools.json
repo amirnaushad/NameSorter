@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "name-sorter": {
+      "version": "1.0.0",
+      "commands": [
+        "name-sorter"
+      ],
+      "rollForward": false
+    }
+  }
+}
